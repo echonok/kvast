@@ -1,0 +1,30 @@
+.page-footer {
+    padding: 10px;
+    background-color: #eeeeee;
+}
+
+h1 {
+	font: Arial;
+	color: white;
+	text-align: center;
+}
+
+.main_top {
+	background-color: orange;
+
+}
+
+.main_menu {
+	text-align: center;
+	vertical-align: center;
+	color: white;
+	/*border-color: white;*/
+	/*border: 2px solid white;*/
+}
+
+table {
+    width: 100%
+    border-collapse: collapse;
+    border: 2px solid lightgray;
+	/*border-spacing: 1px;*/
+}
